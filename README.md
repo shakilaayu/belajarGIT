@@ -6,7 +6,9 @@ Daftar tugas / branch
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
-Daftar perintah GiT
+
+Daftar perintah GIT
+
 git clone : Mengkloning repositori dari GitHub ke komputer lokal.
 git checkout : Beralih ke branch yang berbeda.
 git branch : Membuat branch baru.
